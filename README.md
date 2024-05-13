@@ -1,3 +1,3 @@
 # To-D0-List..
 
-It includes the no of and which task is to be completed.
+It includes the no. of tasks that is to be completed in a specific date and time.
